@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nabeel Abdul Rahman</h1>
-<h3 align="center"> Data Professional | AI Practitioner  </h3>
+<h3 align="center"> Data Scientist | AI Practitioner  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitsuraaj" alt="gitsuraaj" /> </p>
 
